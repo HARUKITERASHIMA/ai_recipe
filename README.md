@@ -14,4 +14,4 @@
 ### 外部API
 - Google Gemini API
 
-###　未デプロイ
+### 未デプロイ
