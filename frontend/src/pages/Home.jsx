@@ -92,7 +92,7 @@ const Home = () => {
     localStorage.removeItem("username");
     localStorage.removeItem("user_id");
     localStorage.removeItem("login_time");
-    navigate("/Landing");
+    navigate("/");
   };
 
   return (
